@@ -1,3 +1,10 @@
+"""
+Author: Felix
+Email: 859317053@qq.com
+Date: 2023/12/5
+Version: V0.1
+"""
+
 import numpy as np
 import re
 from matplotlib import pyplot as plt
